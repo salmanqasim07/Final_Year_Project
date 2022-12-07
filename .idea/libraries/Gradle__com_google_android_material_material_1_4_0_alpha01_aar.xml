@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.4.0-alpha01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Pictures/Football live u/caches/transforms-2/files-2.1/592c646a5b78e1b6848f7dc9c66c0dbc/material-1.4.0-alpha01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Pictures/Football live u/caches/transforms-2/files-2.1/592c646a5b78e1b6848f7dc9c66c0dbc/material-1.4.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Pictures/Football live u/caches/transforms-2/files-2.1/592c646a5b78e1b6848f7dc9c66c0dbc/material-1.4.0-alpha01/res" />
+      <root url="file://$USER_HOME$/Pictures/Football live u/caches/transforms-2/files-2.1/592c646a5b78e1b6848f7dc9c66c0dbc/material-1.4.0-alpha01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Pictures/Football live u/caches/modules-2/files-2.1/com.google.android.material/material/1.4.0-alpha01/6eb196e7d3202d35040a32334c52fb9186cd4009/material-1.4.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
